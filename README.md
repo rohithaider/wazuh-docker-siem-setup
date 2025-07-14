@@ -44,10 +44,9 @@ This repository provides a structured approach to deploying the Wazuh SIEM stack
 2. [Install Docker and Docker Compose](#2-install-docker-and-docker-compose)  
 3. [Clone This Repository](#3-clone-this-repository)  
 4. [Run Docker Compose Stack](#4-run-docker-compose-stack)  
-5. [Verify Deployment and Access Dashboard](#5-verify-deployment-and-access-dashboard)  
+5. [Access Dashboard](#5-verify-deployment-and-access-dashboard)  
 6. [Connect Agents to Wazuh Manager](#6-connect-agents-to-wazuh-manager)  
-7. [Monitoring and Logs](#7-monitoring-and-logs)  
-8. [Security and Access Control](#8-security-and-access-control)  
+7. [Dashboard](#7-monitoring-and-logs)  
 
 ---
 
