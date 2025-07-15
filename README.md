@@ -114,6 +114,11 @@ docker-compose -f generate-indexer-certs.yml run --rm generator
 <img width="913" height="487" alt="pasting to terminal" src="https://github.com/user-attachments/assets/363166cd-cb4a-4fd4-83ae-b7c9e977ac12" />
 
 
+### for deploying:
+```bash
+docker-compose up -d
+```
+
 <img width="923" height="410" alt="Deploying docker" src="https://github.com/user-attachments/assets/692fbe4e-12c8-4ae7-b770-c8bcf2d0b323" />
 
 <img width="902" height="445" alt="wazuh complete" src="https://github.com/user-attachments/assets/d47a3f52-6431-4f61-a08e-317cfd328d7c" />
