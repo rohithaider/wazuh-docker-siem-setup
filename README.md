@@ -123,6 +123,13 @@ docker-compose up -d
 
 <img width="902" height="445" alt="wazuh complete" src="https://github.com/user-attachments/assets/d47a3f52-6431-4f61-a08e-317cfd328d7c" />
 
+
+### Check Docker Stats
+
+```bash
+docker stats
+```
+
 <img width="927" height="583" alt="wazuh running succes" src="https://github.com/user-attachments/assets/924cac6d-5785-4d0b-932b-3ec1eb603c4c" />
 
 ---
