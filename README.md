@@ -86,6 +86,10 @@ https://www.linode.com/lp/linodetube/?ifso=networkchuck&utm_source=influencer&ut
 
 ## 3. Clone This Repository
 
+```bash
+git clone https://github.com/wazuh/wazuh-docker.git -b v4.12.0
+```
+
 <img width="914" height="636" alt="cloning" src="https://github.com/user-attachments/assets/c5f7c52b-11da-48ee-b24e-3fdc734c9a6f" />
 
 ## 4. Run Docker Compose Stack
