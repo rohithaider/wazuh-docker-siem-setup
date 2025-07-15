@@ -100,7 +100,14 @@ git clone https://github.com/wazuh/wazuh-docker.git -b v4.12.0
 
 <img width="925" height="620" alt="showing node 2" src="https://github.com/user-attachments/assets/b4335c8b-7c66-448a-9a17-3860a5b89f9c" />
 
-<img width="1234" height="656" alt="copy docker code" src="https://github.com/user-attachments/assets/ccc1a8d8-2746-47c8-93fb-37bedd3cca03" />
+
+
+
+Now, copy this and paste to the terminal
+
+```bash
+docker-compose -f generate-indexer-certs.yml run --rm generator
+```
 
 <img width="1234" height="656" alt="copy docker code" src="https://github.com/user-attachments/assets/781b08c6-52c0-4486-9be0-947513ca3282" />
 
