@@ -77,7 +77,7 @@ https://www.linode.com/lp/linodetube/?ifso=networkchuck&utm_source=influencer&ut
 
 <img width="956" height="723" alt="update repo" src="https://github.com/user-attachments/assets/b96503f2-0642-4a96-9ac9-17b223033887" />
 
-<img width="969" height="550" alt="installing docker " src="https://github.com/user-attachments/assets/b2079682-3bba-41ca-a862-06b709706a8f" />
+<img width="727" height="535" alt="image" src="https://github.com/user-attachments/assets/63844a6c-4b2a-4d12-ab96-6bb517b9a7f2" />
 
 <img width="948" height="690" alt="installatiion running" src="https://github.com/user-attachments/assets/0f469e09-9292-4a81-a262-d272409abd25" />
 
